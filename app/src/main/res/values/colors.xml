@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#AEEA00</color>
+    <color name="colorPrimaryDark">#00C853</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorP">#037C35</color>
+    <color name="purple">#583794</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#ff000000</color>
+    <color name="skyblue">#00B0FF</color>
+    <color name="navfun">#FF6666</color>
+    <color name="progress">#E6F3F8</color>
+    <color name="dark_blue">#56CADB</color>
+    <color name="orange">#FDA420</color>
+    <color name="blue">#0267B6</color>
+    <color name="green">#92D14A</color>
+    <color name="light_blue">#8D04A5</color>
+    <color name="round_circle">#DDEEF4</color>
+
+    <color name="navfunw">#18FFFF</color>
+    <color name="navfunt">#FDB017</color>
+    <color name="navfuntt">#FFEE98</color>
+
+    <!-- dots inactive colors -->
+    <color name="dot_dark_screen1">#d1395c</color>
+    <color name="dot_dark_screen2">#14a895</color>
+    <color name="dot_dark_screen3">#2278d4</color>
+    <color name="dot_dark_screen4">#a854d4</color>
+    <color name="dot_dark_screen5">#D1756E</color>
+
+    <!-- dots active colors -->
+    <color name="dot_light_screen1">#f98da5</color>
+    <color name="dot_light_screen2">#8cf9eb</color>
+    <color name="dot_light_screen3">#93c6fd</color>
+    <color name="dot_light_screen4">#e4b5fc</color>
+    <color name="dot_light_screen5">#CD4137</color>
+
+
+    <array name="array_dot_active">
+        <item>@color/dot_light_screen1</item>
+        <item>@color/dot_light_screen2</item>
+        <item>@color/dot_light_screen3</item>
+        <item>@color/dot_light_screen4</item>
+        <item>@color/dot_light_screen5</item>
+    </array>
+
+    <array name="array_dot_inactive">
+        <item>@color/dot_dark_screen1</item>
+        <item>@color/dot_dark_screen2</item>
+        <item>@color/dot_dark_screen3</item>
+        <item>@color/dot_dark_screen4</item>
+        <item>@color/dot_dark_screen5</item>
+    </array>
+
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Titles">
+        <item>Home</item>
+        <item>My Account</item>
+        <item>Approve Request</item>
+        <item>Approve Picture</item>
+        <item>Block / Unblock User</item>
+        <item />
+        <item>About</item>
+        <item>Reach Us</item>
+        <item />
+        <item>Exit</item>
+    </string-array>
+
+    <array name="Icons">
+        <item>@drawable/ic_home_purple_24dp</item>
+        <item>@drawable/ic_person_purple_24dp</item>
+        <item>@drawable/ic_approve_user</item>
+        <item>@drawable/ic_image</item>
+        <item>@drawable/ic_user_approval</item>
+        <item />
+        <item>@drawable/ic_aboutus_purple_24dp</item>
+        <item>@drawable/ic_email_black_24dp</item>
+        <item />
+        <item>@drawable/ic_exit</item>
+        </array>
+
+</resources>

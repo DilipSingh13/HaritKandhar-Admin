@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">हरित कंधार प्रशासन</string>
+    <string name="live_support"><u>Live Support</u></string>
+    <string name="forgot_password"><u>Forgot Password?</u></string>
+    <string name="register"><u>New user registration</u></string>
+
+    <string name="about_us"><![CDATA[This application is developed by Anviinfotechs. For any kind of query kindly reach us via email using reach us option.]]></string>
+    <string name="intro"><u>हरित कंधार परिवार</u></string>
+    <string name="rationale_location_contacts">Permission required for application.</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="rationale_ask">This app may not work correctly without the requested permissions.</string>
+    <string name="rationale_ask_again">
+        This app may not work correctly without the requested permissions.
+        Open the app settings screen to modify app permissions.
+    </string>
+    <string name="returned_from_app_settings_to_activity">Returned from App Setting to Activity</string>
+</resources>
